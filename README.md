@@ -39,3 +39,4 @@ Huoneen valaistus vaikuttaa LDR-vastusten toimintaan. Etsi koodista funktio `upd
 ```cpp
 // Esimerkki kalibroidusta taajuudesta, jos huoneessa on hämärämpää:
 int freq = map(pitchSensorVal, 200, 800, 100, 1500);
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/568832be-b571-47af-9c80-b0ac3ea13f49" />
